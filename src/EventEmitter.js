@@ -4,7 +4,7 @@
  * @export
  * @class EventEmitter
  */
-class EventEmitter {
+export default class EventEmitter {
   /**
    * Creates an instance of EventEmitter.
    */
